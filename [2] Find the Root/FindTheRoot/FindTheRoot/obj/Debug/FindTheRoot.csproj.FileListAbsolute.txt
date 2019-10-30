@@ -1,0 +1,6 @@
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csprojAssemblyReference.cache
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.CoreCompileInputs.cache
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+D:\Assignment-3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb
